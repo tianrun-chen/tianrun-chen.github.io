@@ -39,7 +39,7 @@
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://www.cvlibs.net/publications/Fu2022THREEDV.pdf">Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation
 </a></div>
-  <div class="author">Xiao Fu*, <strong>Shangzhan Zhang*<strong>, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
+  <div class="author">Xiao Fu*, <strong>Shangzhan Zhang*</strong>, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
   <div class="periodical"><em>International Conference on 3D Vision  <strong>(3DV)</strong>, 2022.</em></div>
   <div class="links">
     <a href="https://arxiv.org/pdf/2203.15224.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
