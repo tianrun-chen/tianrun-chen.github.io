@@ -54,25 +54,6 @@
 <br>
 
   
-<li>
-
-<div class="pub-row">
-
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/anisdf.gif" class="teaser img-fluid z-depth-1">
-</div>
-  
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://arxiv.org/pdf/2203.08133.pdf">Animatable Implicit Neural Representations for Creating Realistic Avatars from Videos</a></div>
-  <div class="author">Sida Peng, Zhen Xu, Junting Dong, Qianqian Wang, <strong>Shangzhan Zhang</strong>, Qing Shuai, Hujun Bao and Xiaowei Zhou</div>
-  <div class="links">
-    <a href="https://arxiv.org/pdf/2203.08133.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    </div>
-  </div>
-</div>
-  
-</li>
   
 </br>
 <li>
