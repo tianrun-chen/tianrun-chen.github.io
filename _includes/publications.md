@@ -50,7 +50,54 @@
 </div>
   
 </li>
+
+<br>
+
   
+<li>
+
+<div class="pub-row">
+
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/anisdf.gif" class="teaser img-fluid z-depth-1">
+</div>
+  
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://arxiv.org/pdf/2203.08133.pdf">Animatable Implicit Neural Representations for Creating Realistic Avatars from Videos</a></div>
+  <div class="author">Sida Peng, Zhen Xu, Junting Dong, Qianqian Wang, <strong>Shangzhan Zhang</strong>, Qing Shuai, Hujun Bao and Xiaowei Zhou</div>
+  <div class="links">
+    <a href="https://arxiv.org/pdf/2203.08133.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+  
+</li>
+  
+</br>
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/aninerf.gif" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf">Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask
+</a></div>
+    <div class="author"><strong>Shangzhan Zhang</strong>, Sida Peng, Tianrun Chen, Linzhan Mou, Haotong Lin, Kaicheng Yu, Yiyi Liao, Xiaowei Zhou</div>
+    <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.</em></div>
+    <div class="links">
+      <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://zju3dv.github.io/animatable_nerf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/zju3dv/animatable_nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+
+    </div>
+  </div>
+</div>
+</li>
+
   
 </ol>
 </div>
