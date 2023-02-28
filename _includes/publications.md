@@ -134,14 +134,14 @@
 <div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaserlrr.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">Laser & Photonics Rev</abbr>
+    <img src="assets/img/teasertrr.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Laser & Photonics Rev.</abbr>
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/9878249/authors#authors">Single-Shot Recognition of 3D Phase Images With Deep Learning</a></div>
     <div class="author">Weiru Fan#, <strong>Tianrun Chen#</strong>, Xingqi Xu, Ziyang Chen, Huizhu Hu, Delong Zhang, Da-Wei Wang, Jixiong Pu, and Shi-Yao Zhu</div>
-    <div class="periodical"><em>Laser and Photonics Reviews</em></div>
+    <div class="periodical"><em>Laser and Photonics Reviews, 2022</em></div>
     <div class="links">
     <a href=" https://www.researchgate.net/profile/Delong-Zhang-2/publication/361699089_Single-Shot_Recognition_of_3D_Phase_Images_With_Deep_Learning/links/62e8c8fd7782323cf193c453/Single-Shot-Recognition-of-3D-Phase-Images-With-Deep-Learning.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> 
     </div>
