@@ -3,7 +3,6 @@
 
 <div class="publications">
 <ol class="bibliography">
-<br>   
 <li>
 <div class="pub-row">
 
@@ -90,7 +89,6 @@
       <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://zju3dv.github.io/animatable_nerf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
       <a href="https://github.com/zju3dv/animatable_nerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-
     </div>
   </div>
 </div>
