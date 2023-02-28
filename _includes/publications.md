@@ -21,7 +21,6 @@
       <a href="https://zju3dv.github.io/paintingnature/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
-</div>
 
   
 <br>
