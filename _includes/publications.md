@@ -86,7 +86,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf">Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask
 </a></div>
-    <div class="author"><strong>Shangzhan Zhang</strong>, Sida Peng, Tianrun Chen, Linzhan Mou, Haotong Lin, Kaicheng Yu, Yiyi Liao, Xiaowei Zhou</div>
+    <div class="author">Sida Peng*, Junting Dong*, Qianqian Wang,  <strong>Shangzhan Zhang</strong>, Qing Shuai, Xiaowei Zhou, Hujun Bao</div>
     <div class="periodical"><em>International Conference on Computer Vision <strong>(ICCV)</strong>, 2021.</em></div>
     <div class="links">
       <a href="https://openaccess.thecvf.com/content/ICCV2021/papers/Peng_Animatable_Neural_Radiance_Fields_for_Modeling_Dynamic_Human_Bodies_ICCV_2021_paper.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
