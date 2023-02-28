@@ -25,7 +25,6 @@
   
 <br>
   
-<div class="pub-row">
 
   <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
     <img src="assets/img/3dv2022.gif" class="teaser img-fluid z-depth-1">
