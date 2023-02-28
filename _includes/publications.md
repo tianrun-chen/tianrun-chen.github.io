@@ -23,8 +23,32 @@
   </div>
 </div>
 </li>
+
   
 <br>
+  
+ <li>
+<div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser1024_1.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">3DV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://www.cvlibs.net/publications/Fu2022THREEDV.pdf">Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation
+</a></div>
+    <div class="author">Xiao Fu*, <strong>Shangzhan Zhang*<strong>, Tianrun Chen, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
+    <div class="periodical"><em>International Conference on 3D Vision  <strong>(3DV)</strong>, 2022.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2203.15224.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://fuxiao0719.github.io/projects/panopticnerf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/fuxiao0719/panopticnerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+
+    </div>
+  </div>
+</div>
+</li>
+ 
 </ol>
 </div>
