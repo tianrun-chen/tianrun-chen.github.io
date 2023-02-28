@@ -21,7 +21,8 @@
       <a href="https://zju3dv.github.io/paintingnature/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
     </div>
   </div>
-  
+</div>
+
   
   
 
@@ -56,6 +57,7 @@
       <a href="https://github.com/fuxiao0719/panopticnerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
 
     </div>
+  </div>
 
   
 </div>
