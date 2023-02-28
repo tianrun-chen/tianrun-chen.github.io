@@ -19,7 +19,6 @@
     <div class="links">
       <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
       <a href="https://zju3dv.github.io/paintingnature/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <strong><i style="color:#e74d3c">Oral Presentation</i></strong>
     </div>
   </div>
 </div>
