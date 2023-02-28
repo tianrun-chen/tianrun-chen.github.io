@@ -57,7 +57,7 @@
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://www.nature.com/articles/s41566-022-01143-3">Super-resolution imaging of non-fluorescent molecules by photothermal relaxation localization microscopy</a></div>
   <div class="author">Pengcheng Fu, Wanlin Cao, <strong>Tianrun Chen</strong>, Xiangjie Huang, Taoran Le, Shiyao Zhu, Da-Wei Wang, Hyeon Jeong Lee & Delong Zhang</div>
-  <div class="periodical"><em>Nature Photonics</strong>, 2023.</em></div>
+  <div class="periodical"><em>Nature Photonics, 2023.</em></div>
   <div class="links">
 
   </div>
@@ -122,7 +122,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://ieeexplore.ieee.org/document/9878249/authors#authors">Learning-Based Video Compression Framework with Implicit Spatial Transform for Applications in the Internet of Things</a></div>
     <div class="author">Qinghai Li, Shiping Zhu, Jinxiang Wang, <strong>Tianrun Chen</strong></div>
-    <div class="periodical"><em> IEEE Transactions on Industrial Informatics</strong>, 2022.</em></div>
+    <div class="periodical"><em> IEEE Transactions on Industrial Informatics, 2022.</em></div>
     <div class="links">
     </div>
   </div>
@@ -130,7 +130,24 @@
 </li>
   
   
-  
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaserlrr.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Laser & Photonics Rev</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://ieeexplore.ieee.org/document/9878249/authors#authors">Single-Shot Recognition of 3D Phase Images With Deep Learning</a></div>
+    <div class="author">Weiru Fan#, <strong>Tianrun Chen#</strong>, Xingqi Xu, Ziyang Chen, Huizhu Hu, Delong Zhang, Da-Wei Wang, Jixiong Pu, and Shi-Yao Zhu</div>
+    <div class="periodical"><em>Laser and Photonics Reviews</em></div>
+    <div class="links">
+    <a href=" https://www.researchgate.net/profile/Delong-Zhang-2/publication/361699089_Single-Shot_Recognition_of_3D_Phase_Images_With_Deep_Learning/links/62e8c8fd7782323cf193c453/Single-Shot-Recognition-of-3D-Phase-Images-With-Deep-Learning.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a> 
+    </div>
+  </div>
+</div>
+</li>
 
   
 </ol>
