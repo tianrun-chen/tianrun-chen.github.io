@@ -1,13 +1,14 @@
 # Basic Information 
-title: Your Name
-position: Ph.D. Student
-affiliation: Your Affiliation
-email: yourname (at) example.edu
+remote_theme: yaoyao-liu/minimal-light
+title: Shangzhan Zhang
+position: Master Student
+affiliation: Zhejiang University
+email: zhang3z@zju.edu.cn
 
 # Search Engine Optimization (SEO)
 # The following information is used to improve the website traffic from search engines, e.g., Google.
-keywords: minimal light
-description: The Minimal Light is a simple and elegant jekyll theme for academic personal homepage.
+keywords: Shangzhan Zhang
+description: Shangzhan's homepage
 canonical: https://minimal-light-theme.yliu.me/
 
 # Links 
