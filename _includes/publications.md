@@ -139,7 +139,7 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/9878249/authors#authors">Single-Shot Recognition of 3D Phase Images With Deep Learning</a></div>
+    <div class="title"><a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/lpor.202100719">Single-Shot Recognition of 3D Phase Images With Deep Learning</a></div>
     <div class="author">Weiru Fan#, <strong>Tianrun Chen#</strong>, Xingqi Xu, Ziyang Chen, Huizhu Hu, Delong Zhang, Da-Wei Wang, Jixiong Pu, and Shi-Yao Zhu</div>
     <div class="periodical"><em>Laser and Photonics Reviews, 2022</em></div>
     <div class="links">
@@ -160,7 +160,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://pubs.acs.org/doi/10.1021/acsphotonics.1c00395">Second Harmonic Imaging Enhanced by Deep Learning Decipher</a></div>
     <div class="author">Weiru Fan#, <strong>Tianrun Chen#</strong>,Eddie Gil, Shiyao Zhu, Vladislav Yakovlev, Da-Wei Wang, and Delong Zhang</div>
-    <div class="periodical"><em>ACS Photonics, 2022</em></div>
+    <div class="periodical"><em>ACS Photonics, 2021</em></div>
     <div class="links">
     </div>
   </div>
