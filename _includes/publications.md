@@ -14,11 +14,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Continual Semantic Segmentation with Automatic Memory Sample Selection</a>
+    <div class="title"><a href="https://arxiv.org/abs/2304.05015">Continual Semantic Segmentation with Automatic Memory Sample Selection</a>
 </div>
     <div class="author">Lanyun Zhu#, <strong>Tianrun Chen#</strong> (#=Equal Contribution), Jianxiong Yin, Simon See, Jun Liu</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
     <div class="links">
+      <a href="https://arxiv.org/pdf/2304.05015" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
   </div>
 </div>
@@ -77,32 +78,14 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://tianrun-chen.github.io/SAM-Adaptor/">SAM Fails to Segment Anything? -- SAM-Adaptor: Adapting SAM in Underperformed Scenes</a></div>
     <div class="author"><strong>Tianrun Chen</strong>, Lanyun Zhu, Chaotao Ding, Runlong Cao, Shangzhan Zhang, Yan Wang, Papa Mao, Ying Zang</div>
-    <div class="periodical"><em>Preprint</strong>, 2023.</em></div>
+    <div class="periodical"><em>Preprint, 2023.</em></div>
     <div class="links">
       <a href="https://tianrun-chen.github.io/SAM-Adaptor/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a>
     </div>
   </div>
 </div>
 </li>
-  
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/ICASSP2.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICASSP</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="">Deep3DSketch: 3D modeling from Free-hand Sketches with View- and Structural-Aware Adversarial Training</a></div>
-    <div class="author"><strong>Tianrun Chen</strong>, Chenglong Fu, Lanyun Zhu, Papa Mao, Jia Zhang, Ying Zang, Lingyun Sun</div>
-    <div class="periodical"><em>IEEE International Conference on Acoustics, Speech, and Signal Processing<strong>(ICASSP)</strong>, 2023.</em></div>
-    <div class="links">
-    </div>
-  </div>
-</div>
-</li>
-  
   
 
 <li>
@@ -128,25 +111,6 @@
 </div>
   
 </li>
-  
-<li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teasertii.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">TII</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://ieeexplore.ieee.org/document/9878249/authors#authors">Learning-Based Video Compression Framework with Implicit Spatial Transform for Applications in the Internet of Things</a></div>
-    <div class="author">Qinghai Li, Shiping Zhu, Jinxiang Wang, <strong>Tianrun Chen</strong></div>
-    <div class="periodical"><em> IEEE Transactions on Industrial Informatics, 2022.</em></div>
-    <div class="links">
-    </div>
-  </div>
-</div>
-</li>
-  
   
 <li>
 <div class="pub-row">
