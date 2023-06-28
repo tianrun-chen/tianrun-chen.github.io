@@ -1,6 +1,6 @@
 ## News
 
-<h4 style="margin:0 10px 0;">Reviewers</h4>
+<h4 style="margin:0 10px 0;">News</h4>
 
 <ul style="margin:0 0 5px;">
 [2023-5] We release the <a href="https://tianrun-chen.github.io/SAM-Adaptor/static/pdfs/Adaptor.pdf">paper</a> and <a href="https://github.com/tianrun-chen/SAM-Adaptor">code</a> for SAM-Adapter, a pioneering attempt to apply SAM in downstream tasks!
