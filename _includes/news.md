@@ -9,7 +9,7 @@
 [2023-3] Two paper accepted by CVPR 2023!
 </ul>
 <ul style="margin:0 0 5px;">
-[2023-1] One paper accepted by ICASSP 2023!
+[2023-1] One paper accepted by Nature Photonics!
 </ul>
 <ul style="margin:0 0 5px;">
 [2022-10] My company Moxin Technology (KOKONI3D) <a href="https://equalocean.com/news/2022102619083"> Raises Tens of Mns of CNY from Series Pre-A Funding Round! </a>
