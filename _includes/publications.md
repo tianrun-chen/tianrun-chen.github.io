@@ -100,7 +100,7 @@
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://arxiv.org/abs/2307.12909">Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields</a></div>
   <div class="author">Shangzhan Zhang, Sida Peng, Yinji ShenTu, Qing Shuai, <strong>Tianrun Chen</strong>, Kaicheng Yu, Hujun Bao, Xiaowei Zhou</div>
-  <div class="periodical"><em>Preprint, 2023.</strong>, 2023.</em></div>
+  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
   <div class="links">
     <a href="https://arxiv.org/pdf/2307.12909.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <a href="https://dyn-e.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
@@ -109,7 +109,28 @@
 </div>
   
 </li>
+  
+<li>
 
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/360.gif" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">Preprint
+</abbr>
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://fuxiao0719.github.io/projects/panopticnerf360/">PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes</a></div>
+  <div class="author">Xiao Fu, Shangzhan Zhang, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
+  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
+  <div class="links">
+    <a href="https://fuxiao0719.github.io/projects/panopticnerf360/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+  </div>
+  </div>
+</div>
+  
+</li>
 <li>
 
 <div class="pub-row">
