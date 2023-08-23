@@ -76,12 +76,12 @@
   </div>
 
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://tianrun-chen.github.io/SAM-Adaptor/">SAM Fails to Segment Anything? -- SAM-Adaptor: Adapting SAM in Underperformed Scenes</a></div>
+    <div class="title"><a href="https://tianrun-chen.github.io/SAM-Adaptor/">SAM-Adaptor: Adapting SAM in Underperformed Scenes</a></div>
     <div class="author"><strong>Tianrun Chen</strong>, Lanyun Zhu, Chaotao Ding, Runlong Cao, Shangzhan Zhang, Yan Wang, Papa Mao, Ying Zang</div>
-    <div class="periodical"><em>Preprint, 2023.</em></div>
+    <div class="periodical"><em>ICCV Workshop, 2023.</em></div>
     <div class="links">
       <a href="https://tianrun-chen.github.io/SAM-Adaptor/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a>
+      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 500+ Stars)
     </div>
   </div>
 </div>
@@ -109,7 +109,27 @@
 </div>
   
 </li>
+  <li>
+
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/1692790808993.png" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">ICCV
+</abbr>
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://arxiv.org/pdf/2308.05396.pdf">Learning Gabor Texture Features for Fine-Grained Recognition</a></div>
+  <div class="author">Lanyun Zhu, <strong>Tianrun Chen</strong>, Jianxiong Yin, Simon See, Jun Liu</div>
+  <div class="periodical"><em> IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
+  <div class="links">
+    <a href="https://arxiv.org/pdf/2308.05396.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+  </div>
+  </div>
+</div>
   
+</li>
 <li>
 
 <div class="pub-row">
