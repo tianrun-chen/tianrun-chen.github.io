@@ -58,7 +58,7 @@
   <div class="title"><a href="https://arxiv.org/pdf/2311.16926.pdf">LLaFS: When Large-Language Models Meet Few-Shot Segmentation
 </a></div>
   <div class="author">Lanyun Zhu, <strong>Tianrun Chen</strong>, Deyi Ji, Jieping Ye, Jun Liu</div>
-  <div class="periodical"><em> CVPR <strong></strong>, 2024.</em></div>
+  <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
   <div class="links">
     <a href="https://arxiv.org/pdf/2311.16926.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
   </div>
