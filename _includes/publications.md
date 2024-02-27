@@ -140,10 +140,10 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://tianrun-chen.github.io/SAM-Adaptor/">SAM-Adaptor: Adapting SAM in Underperformed Scenes</a></div>
     <div class="author"><strong>Tianrun Chen</strong>, Lanyun Zhu, Chaotao Ding, Runlong Cao, Shangzhan Zhang, Yan Wang, Papa Mao, Ying Zang</div>
-    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshop<strong>(ICCV)</strong>, 2023.</em></div>
+    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshop<strong> (ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://tianrun-chen.github.io/SAM-Adaptor/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 600+ Stars)
+      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 700+ Stars)
     </div>
   </div>
 </div>
