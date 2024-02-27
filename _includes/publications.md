@@ -4,7 +4,69 @@
 <div class="publications">
 <ol class="bibliography">
 
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/sketchvr.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Sketch in VR, Make it Real: Rapid 3D Model Generation using VR 3D Sketching</a>
+</div>
+    <div class="author"><strong>Tianrun Chen</strong>, Chaotao Ding, Shangzhan Zhang, Chunan Yu, Ying Zang, Zejian Li, Sida Peng, Lingyun Sun </div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cxk.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Addressing Background Context Bias in Few-Shot Segmentation through Iterative Modulation</a>
+</div>
+    <div class="author">Lanyun Zhu#, <strong>Tianrun Chen#</strong> (#=Equal Contribution), Jianxiong Yin, Simon See, Jun Liu</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+ <li>
+
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/llafs.png" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">CVPR
+</abbr>
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://arxiv.org/pdf/2311.16926.pdf">LLaFS: When Large-Language Models Meet Few-Shot Segmentation
+</a></div>
+  <div class="author">Lanyun Zhu, <strong>Tianrun Chen</strong>, Deyi Ji, Jieping Ye, Jun Liu</div>
+  <div class="periodical"><em> CVPR <strong></strong>, 2024.</em></div>
+  <div class="links">
+    <a href="https://arxiv.org/pdf/2311.16926.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+  </div>
+  </div>
+</div>
   
+</li>
+
 <li>
 <div class="pub-row">
 
@@ -131,28 +193,7 @@
   
 </li>
 
- <li>
 
-<div class="pub-row">
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/llafs.png" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">Preprint
-</abbr>
-</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://arxiv.org/pdf/2311.16926.pdf">LLaFS: When Large-Language Models Meet Few-Shot Segmentation
-</a></div>
-  <div class="author">Lanyun Zhu, <strong>Tianrun Chen</strong>, Deyi Ji, Jieping Ye, Jun Liu</div>
-  <div class="periodical"><em> Preprint <strong></strong>, 2023.</em></div>
-  <div class="links">
-    <a href="https://arxiv.org/pdf/2311.16926.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-  </div>
-  </div>
-</div>
-  
-</li>
 <li>
 <div class="pub-row">
 
