@@ -1,6 +1,6 @@
 ## News
 <ul style="margin:0 0 5px;">
-[2024-2] Three paper accepted by CVPR 2024! 
+[2024-2] Three paper accepted by CVPR 2024! One paper nominated as the Highlight paper!
 </ul>
 <ul style="margin:0 0 5px;">
 [2023-10] One paper accepted by IEEE Transactions on MultiMedia! 
