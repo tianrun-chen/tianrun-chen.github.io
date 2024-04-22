@@ -138,7 +138,7 @@
   
 </li>
 
-<h3>Vision Semantic Understanding </h3>
+<h3>Vision Semantic Understanding & Multi-Modal Foundation Model</h3>
 
 
   <li>
@@ -243,6 +243,26 @@
   </div>
 </div>
   
+</li>
+
+
+  <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/x1.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">Preprint</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/html/2402.18476v1">IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding</a></div>
+    <div class="author">Lanyun Zhu, Deyi Ji, <strong>Tianrun Chen</strong>, Peng Xu, Jieping Ye, Jun Liu</div>
+    <div class="periodical"><em>Arxiv Preprint, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/html/2402.18476v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
 </li>
 
 <h3>Computational Imaging</h3>
