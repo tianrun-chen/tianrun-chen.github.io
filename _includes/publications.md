@@ -1,6 +1,6 @@
 
 <h2 id="publications" style="margin: 2px 0px -15px;">Selected Publications</h2>
-
+<h3>3D Vision & Graphics</h3>
 <div class="publications">
 <ol class="bibliography">
 
@@ -19,6 +19,143 @@
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) (Highlight Paper) </strong>, 2024.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/tmm.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">Reality3DSketch: rapid 3D modeling of objects from single freehand sketches</a>
+</div>
+    <div class="author"><strong>Tianrun Chen</strong>, Chaotao Ding, Lanyun Zhu, Ying Zang, Yiyi Liao, Zejian Li, Lingyun Sun </div>
+    <div class="periodical"><em><strong>IEEE Transactions on MultiMedia (TMM)</strong>, 2024.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2310.18148.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/teaser1024_1.jpg" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://arxiv.org/abs/2302.07224">Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask
+</a></div>
+    <div class="author">Shangzhan Zhang, Sida Peng, <strong>Tianrun Chen</strong>, Linzhan Mou, Haotong Lin, Kaicheng Yu, Yiyi Liao, Xiaowei Zhou</div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+      <a href="https://zju3dv.github.io/paintingnature/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    </div>
+  </div>
+</div>
+</li>
+
+
+
+<li>
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/360.gif" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">Preprint
+</abbr>
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://fuxiao0719.github.io/projects/panopticnerf360/">PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes</a></div>
+  <div class="author">Xiao Fu, Shangzhan Zhang, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
+  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
+  <div class="links">
+    <a href="https://fuxiao0719.github.io/projects/panopticnerf360/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+  </div>
+  </div>
+</div>
+  
+</li>
+<li>
+
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/3dv2022.gif" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">3DV</abbr>
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://www.cvlibs.net/publications/Fu2022THREEDV.pdf">Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation
+</a></div>
+  <div class="author">Xiao Fu#, Shangzhan Zhang#, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
+  <div class="periodical"><em>International Conference on 3D Vision <strong>(3DV)</strong>, 2022.</em></div>
+  <div class="links">
+    <a href="https://arxiv.org/pdf/2203.15224.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://fuxiao0719.github.io/projects/panopticnerf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+    <a href="https://github.com/fuxiao0719/panopticnerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
+    </div>
+  </div>
+</div>
+  
+</li>
+
+
+
+  
+<li>
+
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/dyne.jpg" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">Preprint
+</abbr>
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://arxiv.org/abs/2307.12909">Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields</a></div>
+  <div class="author">Shangzhan Zhang, Sida Peng, Yinji ShenTu, Qing Shuai, <strong>Tianrun Chen</strong>, Kaicheng Yu, Hujun Bao, Xiaowei Zhou</div>
+  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
+  <div class="links">
+    <a href="https://arxiv.org/pdf/2307.12909.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://dyn-e.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+  </div>
+  </div>
+</div>
+  
+</li>
+
+<h3>Vision Semantic Understanding </h3>
+
+
+  <li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/mainfig.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICCV</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="https://tianrun-chen.github.io/SAM-Adaptor/">SAM-Adaptor: Adapting SAM in Underperformed Scenes</a></div>
+    <div class="author"><strong>Tianrun Chen</strong>, Lanyun Zhu, Chaotao Ding, Runlong Cao, Shangzhan Zhang, Yan Wang, Papa Mao, Ying Zang</div>
+    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshop<strong> (ICCV)</strong>, 2023.</em></div>
+    <div class="links">
+      <a href="https://tianrun-chen.github.io/SAM-Adaptor/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 700+ Stars)
     </div>
   </div>
 </div>
@@ -86,26 +223,31 @@
   </div>
 </div>
 </li>
-<li>
+  <li>
+
 <div class="pub-row">
 
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/teaser1024_1.jpg" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">CVPR</abbr>
-  </div>
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/1692790808993.png" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">ICCV
+</abbr>
+</div>
 
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://arxiv.org/abs/2302.07224">Painting 3D Nature in 2D: View Synthesis of Natural Scenes from a Single Semantic Mask
-</a></div>
-    <div class="author">Shangzhan Zhang, Sida Peng, <strong>Tianrun Chen</strong>, Linzhan Mou, Haotong Lin, Kaicheng Yu, Yiyi Liao, Xiaowei Zhou</div>
-    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://arxiv.org/pdf/2002.10211.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-      <a href="https://zju3dv.github.io/paintingnature/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    </div>
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://arxiv.org/pdf/2308.05396.pdf">Learning Gabor Texture Features for Fine-Grained Recognition</a></div>
+  <div class="author">Lanyun Zhu, <strong>Tianrun Chen</strong>, Jianxiong Yin, Simon See, Jun Liu</div>
+  <div class="periodical"><em> IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
+  <div class="links">
+    <a href="https://arxiv.org/pdf/2308.05396.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+  </div>
   </div>
 </div>
+  
 </li>
+
+<h3>Computational Imaging</h3>
+  
+
   <li>
 
 <div class="pub-row">
@@ -129,115 +271,6 @@
 
 </li>
 
-  <li>
-<div class="pub-row">
-
-  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-    <img src="assets/img/mainfig.png" class="teaser img-fluid z-depth-1">
-    <abbr class="badge">ICCV</abbr>
-  </div>
-
-  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-    <div class="title"><a href="https://tianrun-chen.github.io/SAM-Adaptor/">SAM-Adaptor: Adapting SAM in Underperformed Scenes</a></div>
-    <div class="author"><strong>Tianrun Chen</strong>, Lanyun Zhu, Chaotao Ding, Runlong Cao, Shangzhan Zhang, Yan Wang, Papa Mao, Ying Zang</div>
-    <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshop<strong> (ICCV)</strong>, 2023.</em></div>
-    <div class="links">
-      <a href="https://tianrun-chen.github.io/SAM-Adaptor/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 700+ Stars)
-    </div>
-  </div>
-</div>
-</li>
-  
-<li>
-
-<div class="pub-row">
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/dyne.jpg" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">Preprint
-</abbr>
-</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://arxiv.org/abs/2307.12909">Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields</a></div>
-  <div class="author">Shangzhan Zhang, Sida Peng, Yinji ShenTu, Qing Shuai, <strong>Tianrun Chen</strong>, Kaicheng Yu, Hujun Bao, Xiaowei Zhou</div>
-  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
-  <div class="links">
-    <a href="https://arxiv.org/pdf/2307.12909.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <a href="https://dyn-e.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-  </div>
-  </div>
-</div>
-  
-</li>
-  <li>
-
-<div class="pub-row">
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/1692790808993.png" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">ICCV
-</abbr>
-</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://arxiv.org/pdf/2308.05396.pdf">Learning Gabor Texture Features for Fine-Grained Recognition</a></div>
-  <div class="author">Lanyun Zhu, <strong>Tianrun Chen</strong>, Jianxiong Yin, Simon See, Jun Liu</div>
-  <div class="periodical"><em> IEEE/CVF International Conference on Computer Vision <strong>(ICCV)</strong>, 2023.</em></div>
-  <div class="links">
-    <a href="https://arxiv.org/pdf/2308.05396.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-  </div>
-  </div>
-</div>
-  
-</li>
-
-
-<li>
-<div class="pub-row">
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/360.gif" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">Preprint
-</abbr>
-</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://fuxiao0719.github.io/projects/panopticnerf360/">PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes</a></div>
-  <div class="author">Xiao Fu, Shangzhan Zhang, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
-  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
-  <div class="links">
-    <a href="https://fuxiao0719.github.io/projects/panopticnerf360/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-  </div>
-  </div>
-</div>
-  
-</li>
-<li>
-
-<div class="pub-row">
-
-<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
-  <img src="assets/img/3dv2022.gif" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">3DV</abbr>
-</div>
-
-<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
-  <div class="title"><a href="https://www.cvlibs.net/publications/Fu2022THREEDV.pdf">Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation
-</a></div>
-  <div class="author">Xiao Fu#, Shangzhan Zhang#, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
-  <div class="periodical"><em>International Conference on 3D Vision <strong>(3DV)</strong>, 2022.</em></div>
-  <div class="links">
-    <a href="https://arxiv.org/pdf/2203.15224.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
-    <a href="https://fuxiao0719.github.io/projects/panopticnerf/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-    <a href="https://github.com/fuxiao0719/panopticnerf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Code</a>
-    </div>
-  </div>
-</div>
-  
-</li>
-  
 <li>
 <div class="pub-row">
 
