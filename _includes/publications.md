@@ -155,7 +155,7 @@
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshop<strong> (ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://tianrun-chen.github.io/SAM-Adaptor/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 700+ Stars)
+      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 800+ Stars)
     </div>
   </div>
 </div>
