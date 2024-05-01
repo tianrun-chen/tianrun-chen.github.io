@@ -1,5 +1,8 @@
 ## News
 <ul style="margin:0 0 5px;">
+[2024-4] One paper accepted by SIGGRAPH 2024!
+</ul>
+<ul style="margin:0 0 5px;">
 [2024-2] Three paper accepted by CVPR 2024! One paper nominated as the Highlight paper!
 </ul>
 <ul style="margin:0 0 5px;">
