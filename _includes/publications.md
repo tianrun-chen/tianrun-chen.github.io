@@ -133,7 +133,29 @@
   
 </li>
 
+  
+<li>
 
+<div class="pub-row">
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/reason3d.jpg" class="teaser img-fluid z-depth-1">
+  <abbr class="badge">Preprint
+</abbr>
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://arxiv.org/abs/2405.19326">Reasoning3D--Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models</a></div>
+  <div class="author"><strong>Tianrun Chen</strong>, Chunan Yu, Jing Li, Jianqi Zhang, Lanyun Zhu, Deyi Ji, Yong Zhang, Ying Zang, Zejian Li, Lingyun Sun</div>
+  <div class="periodical"><em>Preprint, 2024., 2024.</em></div>
+  <div class="links">
+    <a href="https://arxiv.org/pdf/2405.19326.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    <a href="https://tianrun-chen.github.io/Reason3D/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
+  </div>
+  </div>
+</div>
+  
+</li>
 
   
 <li>
@@ -330,7 +352,7 @@
   </div>
 </div>
 </li>
-  
+
 <li>
 <div class="pub-row">
 
