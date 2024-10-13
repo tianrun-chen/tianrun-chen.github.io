@@ -1,12 +1,12 @@
 ## News
 <ul style="margin:0 0 5px;">
+[2024-4] One paper is nominated as the Best Paper in Chinagraph 2024!
+</ul>
+<ul style="margin:0 0 5px;">
 [2024-4] One paper accepted by SIGGRAPH 2024!
 </ul>
 <ul style="margin:0 0 5px;">
 [2024-2] Three paper accepted by CVPR 2024! One paper nominated as the Highlight paper!
-</ul>
-<ul style="margin:0 0 5px;">
-[2023-10] One paper accepted by IEEE Transactions on MultiMedia! 
 </ul>
 <ul style="margin:0 0 5px;">
 [2023-7] One paper accepted by ICCV 2023! 
