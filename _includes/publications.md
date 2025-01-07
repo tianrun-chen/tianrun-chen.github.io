@@ -198,7 +198,7 @@
     <div class="periodical"><em>IEEE/CVF International Conference on Computer Vision Workshop<strong> (ICCV)</strong>, 2023.</em></div>
     <div class="links">
       <a href="https://tianrun-chen.github.io/SAM-Adaptor/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
-      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 800+ Stars)
+      <a href="https://github.com/tianrun-chen/SAM-Adapter-PyTorch/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Github Code</a> (Github 1k+ Stars)
     </div>
   </div>
 </div>
@@ -215,7 +215,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">Addressing Background Context Bias in Few-Shot Segmentation through Iterative Modulation</a>
 </div>
-    <div class="author">Lanyun Zhu, <strong>Tianrun Chen#</strong>, Jianxiong Yin, Simon See, Jun Liu</div>
+    <div class="author">Lanyun Zhu, <strong>Tianrun Chen</strong>, Jianxiong Yin, Simon See, Jun Liu</div>
     <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR)</strong>, 2024.</em></div>
     <div class="links">
       <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
