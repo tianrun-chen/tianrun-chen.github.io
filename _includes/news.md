@@ -1,9 +1,9 @@
 ## News
 <ul style="margin:0 0 5px;">
-[2024-4] One paper is nominated as the Best Paper in Chinagraph 2024!
+[2025-2] Two paper accepted by CVPR 2025!
 </ul>
 <ul style="margin:0 0 5px;">
-[2024-4] One paper accepted by SIGGRAPH 2024!
+[2024-4] One paper accepted by SIGGRAPH 2024! One paper is nominated as the Best Paper in Chinagraph 2024!
 </ul>
 <ul style="margin:0 0 5px;">
 [2024-2] Three paper accepted by CVPR 2024! One paper nominated as the Highlight paper!
