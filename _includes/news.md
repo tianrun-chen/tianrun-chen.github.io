@@ -1,15 +1,12 @@
 ## News
 <ul style="margin:0 0 5px;">
-[2025-2] Two paper accepted by CVPR 2025!
+[2025-6] One paper published at Science! Two papers presented at CVPR 2025! One Paper accepted by ACL 2025!
 </ul>
 <ul style="margin:0 0 5px;">
 [2024-4] One paper accepted by SIGGRAPH 2024! One paper is nominated as the Best Paper in Chinagraph 2024!
 </ul>
 <ul style="margin:0 0 5px;">
 [2024-2] Three paper accepted by CVPR 2024! One paper nominated as the Highlight paper!
-</ul>
-<ul style="margin:0 0 5px;">
-[2023-7] One paper accepted by ICCV 2023! 
 </ul>
 <ul style="margin:0 0 5px;">
 [2023-5] We release the <a href="https://tianrun-chen.github.io/SAM-Adaptor/static/pdfs/Adaptor.pdf">paper</a> and <a href="https://github.com/tianrun-chen/SAM-Adaptor">code</a> for SAM-Adapter, a pioneering attempt to apply SAM in downstream tasks!
