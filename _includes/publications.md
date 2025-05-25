@@ -3,6 +3,26 @@
 <h3>3D Vision & Graphics</h3>
 <div class="publications">
 <ol class="bibliography">
+<li>
+<div class="pub-row">
+
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/cadcrafter.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">CVPR</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">CADCrafter: Generating Computer-Aided Design Models from Unconstrained Images</a>
+</div>
+    <div class="author">Cheng Chen, Jiacheng Wei, <strong>Tianrun Chen#</strong> (# Corresponding Author), Chi Zhang, Xiaofeng Yang, Shangzhan Zhang, Bingchen Yang, Chuan-Sheng Foo, Guosheng Lin, Qixing Huang, Fayao Liu# </div>
+    <div class="periodical"><em>IEEE/CVF Conference on Computer Vision and Pattern Recognition <strong>(CVPR) </strong>, 2025.</em></div>
+    <div class="links">
+      <a href="" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
+    </div>
+  </div>
+</div>
+</li>
+
 
 <li>
 <div class="pub-row">
@@ -140,14 +160,14 @@
 
 <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   <img src="assets/img/reason3d.jpg" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">Preprint
+  <abbr class="badge">ICLR
 </abbr>
 </div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://arxiv.org/abs/2405.19326">Reasoning3D--Grounding and Reasoning in 3D: Fine-Grained Zero-Shot Open-Vocabulary 3D Reasoning Part Segmentation via Large Vision-Language Models</a></div>
   <div class="author"><strong>Tianrun Chen</strong>, Chunan Yu, Jing Li, Jianqi Zhang, Lanyun Zhu, Deyi Ji, Yong Zhang, Ying Zang, Zejian Li, Lingyun Sun</div>
-  <div class="periodical"><em>Preprint, 2024., 2024.</em></div>
+  <div class="periodical"><em>ICLR Workshop 2025.</em></div>
   <div class="links">
     <a href="https://arxiv.org/pdf/2405.19326.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <a href="https://tianrun-chen.github.io/Reason3D/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
@@ -171,7 +191,7 @@
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://arxiv.org/abs/2307.12909">Dyn-E: Local Appearance Editing of Dynamic Neural Radiance Fields</a></div>
   <div class="author">Shangzhan Zhang, Sida Peng, Yinji ShenTu, Qing Shuai, <strong>Tianrun Chen</strong>, Kaicheng Yu, Hujun Bao, Xiaowei Zhou</div>
-  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
+  <div class="periodical"><em>Computers & Graphics 2025 & Chinagraph 2024 (Best paper award)</em></div>
   <div class="links">
     <a href="https://arxiv.org/pdf/2307.12909.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     <a href="https://dyn-e.github.io/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
@@ -182,7 +202,24 @@
 </li>
 
 <h3>Vision Semantic Understanding & Multi-Modal Foundation Model</h3>
+ <li>
+<div class="pub-row">
 
+  <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+    <img src="assets/img/CPCF.png" class="teaser img-fluid z-depth-1">
+    <abbr class="badge">ICML</abbr>
+  </div>
+
+  <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+    <div class="title"><a href="">CPCF: A Cross-Prompt Contrastive Framework for Referring Multimodal Large Language Models</a></div>
+    <div class="author">Lanyun Zhu, Deyi Ji, <strong>Tianrun Chen#</strong> (# Corresponding Author), Haiyang Wu, De Wen Soh, Jun Liu</div>
+    <div class="periodical"><em>International Conference on Machine Learning<strong> (ICML)</strong>, 2025.</em></div>
+    <div class="links">
+    
+    </div>
+  </div>
+</div>
+</li>
 
   <li>
 <div class="pub-row">
