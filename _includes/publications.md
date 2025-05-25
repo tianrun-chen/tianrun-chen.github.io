@@ -214,9 +214,6 @@
     <div class="title"><a href="">CPCF: A Cross-Prompt Contrastive Framework for Referring Multimodal Large Language Models</a></div>
     <div class="author">Lanyun Zhu, Deyi Ji, <strong>Tianrun Chen#</strong> (# Corresponding Author), Haiyang Wu, De Wen Soh, Jun Liu</div>
     <div class="periodical"><em>International Conference on Machine Learning<strong> (ICML)</strong>, 2025.</em></div>
-    <div class="links">
-    
-    </div>
   </div>
 </div>
 </li>
