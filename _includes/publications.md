@@ -361,8 +361,58 @@
 </div>
 </li>
 
-<h3>Computational Imaging</h3>
+<h3>AI4Science Applications</h3>
   
+
+
+  <li>
+
+<div class="pub-row">
+
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/xuscience.png"  class="teaser img-fluid z-depth-1">
+  <abbr class="badge">Science</abbr>
+
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://www.science.org/doi/abs/10.1126/science.ads4105">Integrated carbon and nitrogen management for cost-effective environmental policies in China</a></div>
+  <div class="author">Xin Xu, Xiuming Zhang, Yiyang Zou, <strong>Tianrun Chen</strong>, Jingfang Zhan, Luxi Cheng, Wilfried Winiwarter, Shaohui Zhang, Peter M Vitousek, Wim de Vries, Baojing Gu</div>
+  <div class="periodical"><em>Science, 2025.</em></div>
+  <div class="links">
+
+  </div>
+</div>
+</div>
+
+</li>
+
+
+
+  <li>
+
+<div class="pub-row">
+
+
+<div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
+  <img src="assets/img/ieeebhi.png"  class="teaser img-fluid z-depth-1">
+  <abbr class="badge">IEEE BHI</abbr>
+
+</div>
+
+<div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
+  <div class="title"><a href="https://openreview.net/pdf?id=YG5lOzKJOr">xLSTM-UNet can be an Effective Backbone for 2D & 3D Biomedical Image Segmentation Better than its Mamba Counterparts</a></div>
+  <div class="author"> <strong>Tianrun Chen</strong>, Chaotao Ding, Lanyun Zhu, Tao Xu, Yan Wang, Deyi Ji, Zejian Li, Ying Zang</div>
+  <div class="periodical"><em>IEEE-EMBS International Conference on Biomedical and Health Informatics, 2024.</em></div>
+  <div class="links">
+
+  </div>
+</div>
+</div>
+
+</li>
+
 
   <li>
 
