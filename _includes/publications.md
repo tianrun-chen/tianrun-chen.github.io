@@ -77,7 +77,7 @@
     <div class="title"><a href="">From Air to Wear: Personalized 3D Digital Fashion with AR/VR Immersive 3D Sketching</a>
 </div>
     <div class="author">Ying Zang, Yuanqi Hu, Xinyu Chen, Yuxia Xu, Suhui Wang, Chunan Yu, Lanyun Zhu, Deyi Ji, Xin Xu, <strong>Tianrun Chen</strong> (#=Corresponding Author)</div>
-    <div class="periodical"><em>ACM <strong>IEEE Transactions on Visualization and Computer Graphics</strong>, 2024.</em></div>
+    <div class="periodical"><em> <strong>IEEE Transactions on Visualization and Computer Graphics</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.09998" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
