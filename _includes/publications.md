@@ -76,7 +76,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="">From Air to Wear: Personalized 3D Digital Fashion with AR/VR Immersive 3D Sketching</a>
 </div>
-    <div class="author">Ying Zang, Yuanqi Hu, Xinyu Chen, Yuxia Xu, Suhui Wang, Chunan Yu, Lanyun Zhu, Deyi Ji, Xin Xu, <strong>Tianrun Chen</strong> (#=Corresponding Author)</div>
+    <div class="author">Ying Zang, Yuanqi Hu, Xinyu Chen, Yuxia Xu, Suhui Wang, Chunan Yu, Lanyun Zhu, Deyi Ji, Xin Xu, <strong>Tianrun Chen #</strong> (# Corresponding Author)</div>
     <div class="periodical"><em> <strong>IEEE Transactions on Visualization and Computer Graphics</strong>, 2024.</em></div>
     <div class="links">
       <a href="https://arxiv.org/pdf/2505.09998" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -134,14 +134,14 @@
 
 <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   <img src="assets/img/360.gif" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">Preprint
+  <abbr class="badge">TPAMI
 </abbr>
 </div>
 
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://fuxiao0719.github.io/projects/panopticnerf360/">PanopticNeRF-360: Panoramic 3D-to-2D Label Transfer in Urban Scenes</a></div>
   <div class="author">Xiao Fu, Shangzhan Zhang, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
-  <div class="periodical"><em>Preprint, 2023., 2023.</em></div>
+  <div class="periodical"><em>IEEE Transactions on Pattern Analysis and Machine Intelligence, 2025</em></div>
   <div class="links">
     <a href="https://fuxiao0719.github.io/projects/panopticnerf360/" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">Project Page</a>
   </div>
@@ -161,7 +161,7 @@
 <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
   <div class="title"><a href="https://www.cvlibs.net/publications/Fu2022THREEDV.pdf">Panoptic NeRF: 3D-to-2D Label Transfer for Panoptic Urban Scene Segmentation
 </a></div>
-  <div class="author">Xiao Fu#, Shangzhan Zhang#, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
+  <div class="author">Xiao Fu, Shangzhan Zhang, <strong>Tianrun Chen</strong>, Yichong Lu, Lanyun Zhu, Xiaowei Zhou, Andreas Geiger, Yiyi Liao</div>
   <div class="periodical"><em>International Conference on 3D Vision <strong>(3DV)</strong>, 2022.</em></div>
   <div class="links">
     <a href="https://arxiv.org/pdf/2203.15224.pdf" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
@@ -204,7 +204,7 @@
 
 <div class="col-sm-3 abbr" style="position: relative;padding-right: 15px;padding-left: 15px;">
   <img src="assets/img/dyne.jpg" class="teaser img-fluid z-depth-1">
-  <abbr class="badge">Preprint
+  <abbr class="badge">Chinagraph
 </abbr>
 </div>
 
@@ -373,7 +373,7 @@
   <div class="col-sm-9" style="position: relative;padding-right: 15px;padding-left: 20px;">
     <div class="title"><a href="https://arxiv.org/html/2402.18476v1">IBD: Alleviating Hallucinations in Large Vision-Language Models via Image-Biased Decoding</a></div>
     <div class="author">Lanyun Zhu, Deyi Ji, <strong>Tianrun Chen</strong>, Peng Xu, Jieping Ye, Jun Liu</div>
-    <div class="periodical"><em>Arxiv Preprint, 2024.</em></div>
+    <div class="periodical"><em>CVPR Workshop 2025</em></div>
     <div class="links">
       <a href="https://arxiv.org/html/2402.18476v1" class="btn btn-sm z-depth-0" role="button" target="_blank" style="font-size:12px;">PDF</a>
     </div>
